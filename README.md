@@ -3,7 +3,7 @@
 ### Git clone : https://github.com/AlexeyAB/darknet.git
 
 ### Download the following from given links
-
+#### [WEIGHTS and Data Sets on my Google Drive](https://drive.google.com/drive/folders/1iKOCkFoc1BuLbDyGUwlHVSC1a2q5TS0v?usp=sharing)
 #### [initial weights YOLO](https://drive.google.com/file/d/1OBNcSfNH53HHCEZbfIRsCygDCevS8NaJ/view?usp=sharing)
 #### [trained weights YOLO](https://drive.google.com/file/d/1I3JY2-0mr1wNz7ifEzxct8GJyxEy-doL/view?usp=sharing)
 #### [training dataset](https://drive.google.com/file/d/1t20-WpJWvon2o7MdoS88FyBw8yYrRKln/view?usp=sharing)
