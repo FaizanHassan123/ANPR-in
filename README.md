@@ -1,3 +1,4 @@
+# Article - https://medium.com/data-science-in-your-pocket/vehicle-number-plate-detection-and-ocr-tcs-humain-2019-a253019e52a1
 # TCS_HUMAIN
 ### Git clone : https://github.com/AlexeyAB/darknet.git
 
